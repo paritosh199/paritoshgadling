@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paritosh199.github.io/sitemap.xml
